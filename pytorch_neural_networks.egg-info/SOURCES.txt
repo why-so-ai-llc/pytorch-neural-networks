@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+pytorch_neural_networks/__init__.py
+pytorch_neural_networks/efficient_rl_loop.py
+pytorch_neural_networks/knowledge_distillation.py
+pytorch_neural_networks/low_latency_network.py
+pytorch_neural_networks.egg-info/PKG-INFO
+pytorch_neural_networks.egg-info/SOURCES.txt
+pytorch_neural_networks.egg-info/dependency_links.txt
+pytorch_neural_networks.egg-info/requires.txt
+pytorch_neural_networks.egg-info/top_level.txt
+tests/test_package.py
